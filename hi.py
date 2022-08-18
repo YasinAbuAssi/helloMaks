@@ -1,5 +1,7 @@
 import math
 
+yashaLAVA = 1488
+
 a, b, c = map(int, input().split())
 if (a == 0):
     if (b != 0):
